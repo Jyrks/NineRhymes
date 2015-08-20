@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">NineRhymes</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">9Rhymes</string>
     <string name="action_settings">Settings</string>
+    <string name="rhyme_image">rhyme_image</string>
+    <string name="rhyme_name_hint">Name</string>
+    <string name="guess_button">Rhyme</string>
 </resources>
